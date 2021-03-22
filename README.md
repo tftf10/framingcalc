@@ -3,13 +3,13 @@
 FramingCalc provides an efficient way to calculate rafters, rake walls, and stair stringers.
 
 
-  * [General](#general)
+  * [Input](#input)
   * [Slopes](#slopes)
   * [Rakes](#rakes)
   * [Calculator](#calculator)
   * [Stairs](#stairs)
 
-## General
+## Input
 Values can be input as decimal or fractional format. An apostrophe suffix added to a whole or decimal number denotes feet x' = x(*12).
 Examples
 * 1.25
