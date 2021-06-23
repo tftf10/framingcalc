@@ -1,6 +1,6 @@
 # What is FramingCalc?
 
-FramingCalc provides an efficient way to calculate rafters, rake walls, and stair stringers.
+FramingCalc provides an efficient way to calculate rafters, rake walls, and stair stringers. For support contact me at framingcalc@gmail.com.
 
 
   * [Input](#input)
