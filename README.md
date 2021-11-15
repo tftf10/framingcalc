@@ -46,6 +46,3 @@ Calculates the information needed to cut stair stringers. Results are either cal
 
 Includes option of using wall as top riser. Can be used to calculate correct rise for straight flights, winders, stairs with landings.
 
-## Demos
-* [Stairs](https://www.youtube.com/watch?v=uzqS23lFx_M)
-* [Overframe roof](https://www.youtube.com/watch?v=34s-ILT1uMk)
